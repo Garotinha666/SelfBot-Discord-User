@@ -1,4 +1,4 @@
-# 🤖 Selfbot Interativo para Discord
+# Selfbot Interativo para Discord
 
 Um selfbot completo e interativo para Discord que permite controlar sua conta através de comandos digitados no próprio Discord.
 
